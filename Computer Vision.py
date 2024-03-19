@@ -2,7 +2,7 @@
 
  # Object detection  (  Vehicle Number Plate Detection )-----------------------------------------
 
-from ultralytics import YOLO v8
+from ultralytics import YOLO 
 
 # Load a model
 model = YOLO("yolov8n.yaml")  # build a new model from scratch
