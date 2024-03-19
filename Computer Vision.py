@@ -1,6 +1,6 @@
 
 
- Object detection  (  Vehicle Number Plate Detection )-----------------------------------------
+ # Object detection  (  Vehicle Number Plate Detection )-----------------------------------------
 
 from ultralytics import YOLO v8
 
